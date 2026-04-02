@@ -1,5 +1,4 @@
-# Simple Interest Calculator
-
+# github-final-project
 This project calculates simple interest using the formula:
 
 Simple Interest = (P × R × T) / 100
